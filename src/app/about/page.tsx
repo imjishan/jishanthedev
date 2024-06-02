@@ -25,11 +25,11 @@ export default function About() {
         transition={{ duration: 0.4, delay: 0.2 }}
         className={styles.intro}
       >
-        <h1>Hi there! 👋</h1>
+        <h1>Heyo! 👋</h1>
         <p>
-          My name is <strong>Júlio</strong>, but you can call me{" "}
-          <strong>Ju</strong>. I am a <strong>Fullstack developer</strong>,
-          currently based in <strong>São Paulo</strong>, <strong>Brazil</strong>
+          My name is <strong>Jishan</strong>, but you can call me{" "}
+          <strong>Jissu</strong>. I am a <strong>Fullstack developer</strong>,
+          currently based in <strong>Assam</strong>, <strong>India</strong>
           .
         </p>
         <div className={styles.gallery}>
